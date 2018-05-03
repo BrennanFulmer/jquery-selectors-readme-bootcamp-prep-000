@@ -3,7 +3,7 @@ function paragraphSelector() {
   
 }
 
-function paragraphSelector() {
+function lastImageSelector() {
   
 }
 
