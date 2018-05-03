@@ -7,7 +7,6 @@ function paragraphSelector() {
   
 }
 
-
 function paragraphSelector() {
   
 }
